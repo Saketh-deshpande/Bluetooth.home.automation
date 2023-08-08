@@ -1,0 +1,3 @@
+".\Objects\homeautomation.obj" 
+TO ".\Objects\bluetooth" 
+PRINT(".\Listings\bluetooth.m51") RAMSIZE(256) 
