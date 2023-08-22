@@ -56,7 +56,7 @@ void main()
 		else if(Data_in =='2')
 		{
 			Lamp=0;
-			Uart_SendString("Lamp On");
+			Uart_SendString("Lamp Off");
 		}
 		else if(Data_in =='3')
 		{
